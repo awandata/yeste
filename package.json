@@ -1,0 +1,20 @@
+{
+  "name": "elect1",
+  "version": "1.0.0",
+  "description": "yesdesktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Elect1"
+  ],
+  "author": "Yeste Triyanta",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^3.0.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^12.1.2"
+  }
+}
